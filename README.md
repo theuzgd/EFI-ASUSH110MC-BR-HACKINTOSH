@@ -21,6 +21,6 @@ https://github.com/luchina-gabriel/BASE-EFI-INTEL-DESKTOP-7THGEN-KABY-LAKE
 
 Agradecimentos: Gabriel Luchina, o maior nome do Hackintosh e o mais confiável atualmente.
 
-PS: Se você tiver só o gráfico integrado, gerar a SMBIOS para iMac18,1 e aplicar no config.plist desta EFI.
-PS2: As placas de vídeos suportadas serão detectadas sem qualquer patch ou alteração pelo hackintool ou pelo Propertree.
-PS3: Kext do codec ALC887 foi atualizada nesta EFI, o parâmetro alcid=1 foi adicionado no config.plist. O áudio da placa-mãe está 100% funcional.
+* PS: Se você tiver só o gráfico integrado, gerar a SMBIOS para iMac18,1 e aplicar no config.plist desta EFI.
+* PS2: As placas de vídeos suportadas serão detectadas sem qualquer patch ou alteração pelo hackintool ou pelo Propertree.
+* PS3: Kext do codec ALC887 foi atualizada nesta EFI, o parâmetro alcid=1 foi adicionado no config.plist. O áudio da placa-mãe está 100% funcional.
