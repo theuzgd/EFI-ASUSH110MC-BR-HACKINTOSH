@@ -1,6 +1,9 @@
 # EFI-ASUSH110MC-BR-HACKINTOSH
 EFI HACKINTOSH pronta para placa mãe ASUS H110M C/BR equipada com Intel de 7th GEN
 
+Esta EFI foi gerada usando o OpenCore 0.9.2, seguindo o guia em vídeo feito pelo Gabriel Luchina,
+os arquivos utilizados foram adquiridos no repositório do mesmo seguindo a compatibilidade com o meu dispositivo no caso:
+
 SETUP DESTA EFI:
 - Plataforma: Desktop | Intel 7th GEN
 - Placa Mãe: Asus H110M-C/BR
@@ -10,10 +13,6 @@ SETUP DESTA EFI:
 - SMBIOS: iMac18,3
 - macOS: Big Sur
 - Opencore: 0.9.2
-
-Esta EFI foi gerada usando o OpenCore 0.9.2, seguindo o guia em vídeo feito pelo Gabriel Luchina,
-os arquivos utilizados foram adquiridos no repositório do mesmo seguindo a compatibilidade com o meu dispositivo no caso:
-Placa-mãe ASUS H110M-C/BR, equipada com Intel Core i5 7400 (4/4, 3,00GHz), 16GB DDR4, apenas GPU Integrada (Intel HD Graphics 630). Tudo funciona como deveria, inclusive a aceleração gráfica.
 
 A mídia de instalação do MacOS utilizada foi o MacOS Big Sur.
 
